@@ -1,2 +1,4 @@
-# track_kaggle
-Set of Kaggle projects
+# Set of Data Science projects from Kaggle
+
+| Name | Dataset | Model | Script | Result |
+| --- | --- | --- | --- | --- |
