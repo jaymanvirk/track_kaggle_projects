@@ -1,4 +1,4 @@
-# Set of Data Science projects ran on Kaggle
+# Set of Data Science projects from Kaggle
 
 | Dataset | Project | Year |
 | --- | --- | --- |
