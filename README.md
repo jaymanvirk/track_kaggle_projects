@@ -12,3 +12,7 @@
 | 3 | [Travel Accommodation Prediction](https://www.kaggle.com/datasets/jaymanvirk/travel-accommodation) | [kaggle_travel_accommodation](https://github.com/jaymanvirk/kaggle_travel_accommodation) | LogReg, DecTree, RF, kNN | 2022 |
 | 2 | [Sick Leave Analysis](https://www.kaggle.com/datasets/jaymanvirk/sick-leave/data) | [kaggle_sick_leave](https://github.com/jaymanvirk/kaggle_sick_leave) | NA | 2018 |
 | 1 | [Machine Breakdown Prediction](https://www.kaggle.com/datasets/jaymanvirk/machine-breakdown/data) | [kaggle_machine_breakdown](https://github.com/jaymanvirk/kaggle_machine_breakdown) | LogReg, DecTree, RF, kNN, SVM | 2018 |
+
+## License
+This project is licensed under the MIT License.
+
